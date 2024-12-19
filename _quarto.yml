@@ -1,6 +1,7 @@
 project:
   type: website
-
+execute:
+  freeze: auto
 website:
   favicon: site/logo_black_small.png  # https://quarto.org/docs/websites/website-tools.html#favicon
   twitter-card: true  # https://quarto.org/docs/websites/website-tools.html#twitter-cards
@@ -22,7 +23,7 @@ website:
     search: true
     left:
       - text: "Notebook Pub"
-        href: index.qmd
+        href: notebook.ipynb
     right:
       - text: "FAQ"
         href: site/about.qmd
