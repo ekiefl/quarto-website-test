@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  favicon: logo_black_small.png  # https://quarto.org/docs/websites/website-tools.html#favicon
+  favicon: site/logo_black_small.png  # https://quarto.org/docs/websites/website-tools.html#favicon
   twitter-card: true  # https://quarto.org/docs/websites/website-tools.html#twitter-cards
   open-graph: true  # https://quarto.org/docs/websites/website-tools.html#open-graph
   title: "Arcadia Science"
@@ -17,7 +17,7 @@ website:
             href:  https://github.com/Arcadia-Science/2024-paired-token-masking
           - text: Arcadia Science GitHub
             href: https://github.com/Arcadia-Science
-    logo: logo_white.png
+    logo: site/logo_white.png
     background: "#4D635E"
     search: true
     left:
@@ -25,12 +25,12 @@ website:
         href: index.qmd
     right:
       - text: "FAQ"
-        href: about.qmd
+        href: site/about.qmd
   page-footer: 
     background: "#484B50"
     border: false
     left: |
-      [![](logo_white_small.png){fig-alt="Arcadia-Science" width=65px}](https://www.arcadiascience.com/)
+      [![](site/logo_white_small.png){fig-alt="Arcadia-Science" width=65px}](https://www.arcadiascience.com/)
       Copyright 2024, Arcadia Science
     right: 
       - icon: twitter
@@ -45,5 +45,5 @@ website:
 format:
   html:
     theme: default
-    css: styles.css
+    css: site/styles.css
     toc: true
