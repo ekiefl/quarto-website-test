@@ -9,7 +9,7 @@
   {
     "objectID": "notebook.html",
     "href": "notebook.html",
-    "title": "Arcadia Science",
+    "title": "Paired Token Prediction",
     "section": "",
     "text": "print(\"hi\")\n\nhi\n\n\n\nx = 52\n\n\nimport matplotlib.pyplot as plt\nplt.plot([0,1,10,3])"
   },
