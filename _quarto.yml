@@ -43,5 +43,5 @@ format:
     toc: true
 comments:
   giscus:
-    repo: ekiefl/quarto-website-test
+    repo: Arcadia-Science/2024-paired-token-masking
     input-position: top
