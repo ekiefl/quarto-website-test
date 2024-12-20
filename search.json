@@ -11,7 +11,7 @@
     "href": "notebook.html",
     "title": "Arcadia Science",
     "section": "",
-    "text": "print(\"hi\")\n\nhi\n\n\n\nx = 52\n\n\nimport matplotlib.pyplot as plt\nplt.plot([0,1,5,3])"
+    "text": "print(\"hi\")\n\nhi\n\n\n\nx = 52\n\n\nimport matplotlib.pyplot as plt\nplt.plot([0,1,10,3])"
   },
   {
     "objectID": "index.html",
