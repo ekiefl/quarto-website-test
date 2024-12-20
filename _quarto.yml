@@ -21,9 +21,6 @@ website:
     logo: site/logo_white.png
     background: "#4D635E"
     search: true
-    left:
-      - text: "Notebook Pub"
-        href: notebook.ipynb
   page-footer: 
     background: "#484B50"
     border: false
