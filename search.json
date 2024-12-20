@@ -1,23 +1,9 @@
 [
   {
-    "objectID": "site/about.html",
-    "href": "site/about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
-    "objectID": "notebook.html",
-    "href": "notebook.html",
+    "objectID": "index.html",
+    "href": "index.html",
     "title": "Paired Token Prediction",
     "section": "",
     "text": "print(\"hi\")\n\nhi\n\n\n\nx = 52\n\n\nimport matplotlib.pyplot as plt\nplt.plot([0,1,10,3])"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "testttt",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   }
 ]
