@@ -10,3 +10,7 @@ This publishes uses gh-pages, but execution is done locally, not on CI. That mea
 In order to publish the website, you have to do the following *once*. Have a clean branch, then run `quarto publish gh-pages`.
 
 Now, whenever you push to main, a github action should rebuild the website.
+
+# Giscus
+
+Fill out the instructions here: https://giscus.app/

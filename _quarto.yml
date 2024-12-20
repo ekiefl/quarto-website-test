@@ -24,9 +24,6 @@ website:
     left:
       - text: "Notebook Pub"
         href: notebook.ipynb
-    right:
-      - text: "FAQ"
-        href: site/about.qmd
   page-footer: 
     background: "#484B50"
     border: false
@@ -48,3 +45,7 @@ format:
     theme: default
     css: site/styles.css
     toc: true
+
+comments:
+  giscus: 
+    repo: ekiefl/quarto-website-test
